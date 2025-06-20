@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python/
+env/
+venv/
+*.egg-info/
+.pytest_cache/
+
+# PyCharm specific
+.idea/
+.vscode/ # If you also use VS Code
+*.iml
+
+# Operating System Files
+.DS_Store
+.Trashes
+Thumbs.db
+ehthumbs.db
+*.bak
+*.swp
+*~
+*.log
+*.sqlite3
+
+# Build/Dist files (if you ever package your app)
+dist/
+build/
+*.spec
+*.pyinstaller
